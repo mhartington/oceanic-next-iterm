@@ -1,4 +1,4 @@
-![](oceanic-next.png)
+![](https://raw.githubusercontent.com/mhartington/oceanic-next-iterm/master/oceanic-next-iterm.png)
 ## Installation
 + On iTerm2, go to Preferences > Profiles > Colors
 + Click on Load Presets > Import

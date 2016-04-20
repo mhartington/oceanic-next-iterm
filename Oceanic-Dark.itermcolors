@@ -5,13 +5,13 @@
 	<key>Ansi 0 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.10323804616928101</real>
+		<real>0.12923833727836609</real>
 		<key>Color Space</key>
 		<string>Calibrated</string>
 		<key>Green Component</key>
-		<real>0.08946622908115387</real>
+		<real>0.10887220501899719</real>
 		<key>Red Component</key>
-		<real>0.064200475811958313</real>
+		<real>0.072135128080844879</real>
 	</dict>
 	<key>Ansi 1 Color</key>
 	<dict>
@@ -181,13 +181,13 @@
 	<key>Background Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.087647214531898499</real>
+		<real>0.1297074556350708</real>
 		<key>Color Space</key>
 		<string>Calibrated</string>
 		<key>Green Component</key>
-		<real>0.076563261449337006</real>
+		<real>0.10740385949611664</real>
 		<key>Red Component</key>
-		<real>0.05613408237695694</real>
+		<real>0.071905560791492462</real>
 	</dict>
 	<key>Bold Color</key>
 	<dict>
@@ -214,13 +214,13 @@
 	<key>Cursor Text Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.15351897478103638</real>
+		<real>0.12923833727836609</real>
 		<key>Color Space</key>
 		<string>Calibrated</string>
 		<key>Green Component</key>
-		<real>0.12613682448863983</real>
+		<real>0.10887220501899719</real>
 		<key>Red Component</key>
-		<real>0.082745030522346497</real>
+		<real>0.072135128080844879</real>
 	</dict>
 	<key>Foreground Color</key>
 	<dict>
